@@ -7,5 +7,6 @@ def test_main():
   instance=myFirstClass('stefano',0)
   instance.print()
   myFirstClass.print_static()
+  print("good bye")
 
 test_main()
